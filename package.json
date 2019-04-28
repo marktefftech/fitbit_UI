@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "27cc82c7-012f-4ead-a320-650c9cf6caa0",
+    "appType": "clockface",
+    "appDisplayName": "thirdeye",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_user_profile",
+      "access_location",
+      "access_exercise"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "thirdeye"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}

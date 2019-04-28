@@ -1,0 +1,6 @@
+<svg class="background">
+  <image id="imageBackground" />
+  <text id="labelTimeShadow" class="time time-shadow" />
+  <text id="labelTime" class="time" />
+  <text id="hrm">42</text>
+</svg>

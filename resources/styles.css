@@ -1,0 +1,23 @@
+.background {
+  viewport-fill: black;
+}
+
+.time {
+  font-size: 60;
+  font-family: Colfax-Black;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%-8;
+  y: 50;
+  fill: white;
+}
+
+#hrm {
+  font-size: 40;
+  font-family: Colfax-Black;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%-8;
+  y: 100;
+  fill: white;
+}
